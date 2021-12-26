@@ -1,2 +1,2 @@
 # Snake_game
-Snake game on Pygame
+Snake game on PyGame based on Pythonist snake game
